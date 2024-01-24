@@ -9,7 +9,7 @@ Mega Blog is a dynamic web application that empowers users to create, share, and
 - **Efficient State Management:** Redux ensures scalable and smooth user interactions.
 - **Intuitive Navigation:** React Router provides seamless navigation for an enhanced browsing experience.
 - **Access Controls:** Strict access controls prevent unauthorized edits or deletions of others' blog posts.
-- **Deployment:** The application is deployed on [Vercel](https://vercel.com/), showcasing proficiency in the deployment process.
+- **Deployment:** The application is deployed on [Vercel](https://mega-blog-wheat.vercel.app/), showcasing proficiency in the deployment process.
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ Mega Blog is a dynamic web application that empowers users to create, share, and
 
 ## Deployment
 
-The live version of the project is accessible at [https://mega-blog-wheat.vercel.app/](#). Visit the [Vercel](https://vercel.com/) platform for more details on deployment.
+The live version of the project is accessible at [https://mega-blog-wheat.vercel.app/](#).
 
 ## Demo 
 
